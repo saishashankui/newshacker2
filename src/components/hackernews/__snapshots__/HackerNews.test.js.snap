@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`must render a loading span before api call success 1`] = `
+"<div>
+  <header className=\\"masthead clear\\">
+    <div className=\\"centered\\">
+      <div className=\\"site-branding\\">
+        <h1 className=\\"site-title\\">
+          Hacker News
+        </h1>
+        <p>
+          Top 10 Stories
+        </p>
+      </div>
+    </div>
+  </header>
+  <main className=\\"main-area\\">
+    <div className=\\"centered\\">
+      <section className=\\"cards\\" />
+    </div>
+  </main>
+</div>"
+`;
